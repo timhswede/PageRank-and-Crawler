@@ -1,0 +1,6 @@
+Link,Count,Outlink
+https://en.wikipedia.org/wiki/Main_Page,3,"['https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520', 'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en', 'https://stats.wikimedia.org/#/en.wikipedia.org']"
+https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520,3,"['https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520', 'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en', 'https://stats.wikimedia.org/#/en.wikipedia.org']"
+https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en,0,[]
+https://stats.wikimedia.org/#/en.wikipedia.org,0,[]
+https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520,3,"['https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1004593520', 'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en', 'https://stats.wikimedia.org/#/en.wikipedia.org']"
