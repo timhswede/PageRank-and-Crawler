@@ -12,9 +12,9 @@ with open('list.csv', 'w', encoding='UTF8', newline='') as list:
     list.close()
 
 def crawler():
-    seed = "https://www.apple.com/" # seed URL
-    page_num = 1 # count pages
-    all_links = [seed]  # all links under domain of cpp.edu
+    seed = "https://www.apple.com/" 
+    page_num = 1
+    all_links = [seed] 
     counter = 0
 
     header_row = ['Link', 'Count', 'Outlink']
@@ -24,8 +24,8 @@ def crawler():
 
 
     while page_num <= MAX_PAGES:
-        outlink_count = 0 # number of outlinks for each page
-        outlinks = []  # to store all outlinks of a certain page
+        outlink_count = 0 
+        outlinks = []  
 
         # send request to a page and parsed its url to get html content
         html_page = requests.get(all_links[counter]).text
