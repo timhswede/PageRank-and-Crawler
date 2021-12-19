@@ -46,8 +46,8 @@ def crawler():
             writer.writerow(report_row)
 
 
-        page_num += 1 # increment page
-        counter += 1 # increment counter
+        page_num += 1 
+        counter += 1 
 
     list.close()
 
