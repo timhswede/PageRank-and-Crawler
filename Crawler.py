@@ -4,7 +4,7 @@ import time
 import requests
 import csv
 
-MAX_PAGES = 10
+MAX_PAGES = 100
 
 # Creating list.csv file for links and number outlinks
 with open('list.csv', 'w', encoding='UTF8', newline='') as list:
